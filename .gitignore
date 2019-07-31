@@ -1,0 +1,4 @@
+*.out
+cmake-build-debug/
+.idea/
+codealike.json
