@@ -5,3 +5,4 @@
 -   [CHOPRT](https://www.codechef.com/problems/CHOPRT)
 -   [CUTBOARD](https://www.codechef.com/problems/CUTBOARD)
 -   [LUCKFOUR](https://www.codechef.com/problems/LUCKFOUR)
+-   [RRJOKE](https://www.codechef.com/problems/RRJOKE)
