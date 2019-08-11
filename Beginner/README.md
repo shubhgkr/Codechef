@@ -6,3 +6,4 @@
 -   [CUTBOARD](https://www.codechef.com/problems/CUTBOARD)
 -   [LUCKFOUR](https://www.codechef.com/problems/LUCKFOUR)
 -   [RRJOKE](https://www.codechef.com/problems/RRJOKE)
+-   [CHEFSTLT](https://www.codechef.com/problems/CHEFSTLT)
