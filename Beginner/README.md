@@ -15,3 +15,4 @@
 -   [ADASCOOL](https://www.codechef.com/problems/ADASCOOL)
 -   [PPSUM](https://www.codechef.com/problems/PPSUM)
 -   [FLOW005](https://www.codechef.com/problems/FLOW005)
+-   [TABLET](https://www.codechef.com/problems/TABLET)
