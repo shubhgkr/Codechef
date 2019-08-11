@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/CIELRCPT.cpp)
+add_executable(Codechef Beginner/FLOW004.cpp)
