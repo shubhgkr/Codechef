@@ -24,13 +24,12 @@ bool visBoard[n][n] = {
 };
 
 bool solveMaze(int x, int y) {
-	if (x == n - 1 && y == n - 1) {
-		visBoard[x][y] = true;
-		return true;
-	}
 	if (0 > x || 0 > y || x > n || y > n || board[x][y] == 0 || visBoard[x][y])
 		return false;
 	visBoard[x][y] = true;
+	if (x == n - 1 && y == n - 1) {
+		return true;
+	}
 	if (solveMaze(x - 1, y) || solveMaze(x, y + 1) || solveMaze(x + 1, y) || solveMaze(x, y - 1))
 		return true;
 	visBoard[x][y] = false;
