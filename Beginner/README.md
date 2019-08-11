@@ -7,3 +7,4 @@
 -   [LUCKFOUR](https://www.codechef.com/problems/LUCKFOUR)
 -   [RRJOKE](https://www.codechef.com/problems/RRJOKE)
 -   [CHEFSTLT](https://www.codechef.com/problems/CHEFSTLT)
+-   [FSQRT](https://www.codechef.com/problems/FSQRT)
