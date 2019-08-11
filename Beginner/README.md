@@ -9,3 +9,4 @@
 -   [CHEFSTLT](https://www.codechef.com/problems/CHEFSTLT)
 -   [FSQRT](https://www.codechef.com/problems/FSQRT)
 -   [FLOW002](https://www.codechef.com/problems/FLOW002)
+-   [SNCKYEAR](https://www.codechef.com/problems/SNCKYEAR)
