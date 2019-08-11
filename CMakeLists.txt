@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/RRJOKE.cpp)
+add_executable(Codechef Algorithms/RatInAMaze.cpp)
