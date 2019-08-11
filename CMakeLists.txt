@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/DIFFSUM.cpp)
+add_executable(Codechef Beginner/ICL1902.cpp)
