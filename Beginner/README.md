@@ -10,3 +10,4 @@
 -   [FSQRT](https://www.codechef.com/problems/FSQRT)
 -   [FLOW002](https://www.codechef.com/problems/FLOW002)
 -   [SNCKYEAR](https://www.codechef.com/problems/SNCKYEAR)
+-   [DIFFSUM](https://www.codechef.com/problems/DIFFSUM)
