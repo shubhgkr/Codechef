@@ -13,3 +13,4 @@
 -   [DIFFSUM](https://www.codechef.com/problems/DIFFSUM)
 -   [ICL1902](https://www.codechef.com/problems/ICL1902)
 -   [ADASCOOL](https://www.codechef.com/problems/ADASCOOL)
+-   [PPSUM](https://www.codechef.com/problems/PPSUM)
