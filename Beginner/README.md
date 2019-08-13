@@ -30,3 +30,4 @@
 -   [FLOW017](https://www.codechef.com/problems/FLOW017)
 -   [FLOW007](https://www.codechef.com/problems/FLOW007)
 -   [MUFFINS3](https://www.codechef.com/problems/MUFFINS3)
+-   [FLOW010](https://www.codechef.com/problems/FLOW010)
