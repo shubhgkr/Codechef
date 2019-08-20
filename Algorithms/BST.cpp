@@ -43,11 +43,20 @@ int height(Node *node) {
 	return std::max(height(node->left) + 1, height(node->right) + 1);
 }
 
+void preOrderTraversal(Node *node) {
+	if (node == nullptr)
+		return;
+	std::cout << node->data << "\n";
+	preOrderTraversal(node->left);
+	preOrderTraversal(node->right);
+}
+
 int main() {
 	int arr[] = {15, 20, 25, 10, 8, 12, 18};
 	Node *root = nullptr;
 	for (int v:arr)
 		root = insertNewNode(root, v);
-	std::cout << height(root);
+	std::cout << "Preorder traversal of the tree is:\n";
+	preOrderTraversal(root);
 	return 0;
 }
