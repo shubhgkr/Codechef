@@ -37,11 +37,17 @@ bool search(Node *node, int data) {
 	return search(node->right, data);
 }
 
+int height(Node *node) {
+	if (node == nullptr)
+		return 0;
+	return std::max(height(node->left) + 1, height(node->right) + 1);
+}
+
 int main() {
 	int arr[] = {15, 20, 25, 10, 8, 12, 18};
 	Node *root = nullptr;
 	for (int v:arr)
 		root = insertNewNode(root, v);
-	std::cout << search(root, 55);
+	std::cout << height(root);
 	return 0;
 }
