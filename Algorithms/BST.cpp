@@ -59,12 +59,21 @@ void inOrderTraversal(Node *node) {
 	inOrderTraversal(node->right);
 }
 
+void postOrderTraversal(Node *node) {
+	if (node == nullptr)
+		return;
+	postOrderTraversal(node->left);
+	postOrderTraversal(node->right);
+	std::cout << node->data << "\n";
+}
+
+
 int main() {
 	int arr[] = {15, 20, 25, 10, 8, 12, 18};
 	Node *root = nullptr;
 	for (int v:arr)
 		root = insertNewNode(root, v);
-	std::cout << "inorder traversal of the tree is:\n";
-	inOrderTraversal(root);
+	std::cout << "postorder traversal of the tree is:\n";
+	postOrderTraversal(root);
 	return 0;
 }
