@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Algorithms/BST.cpp)
+add_executable(Codechef Algorithms/DiameterOfABinaryTree.cpp)
