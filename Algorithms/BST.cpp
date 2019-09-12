@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <queue>
 
 struct Node {
 	int data;
@@ -67,13 +68,34 @@ void postOrderTraversal(Node *node) {
 	std::cout << node->data << "\n";
 }
 
+void BFS(Node *node) {
+	if (node == nullptr)
+		return;
+	std::queue<Node *> q;
+	q.push(node);
+	while (!q.empty()) {
+		Node *current = q.front();
+		std::cout << current->data << " ";
+		if (current->left != nullptr)
+			q.push(current->left);
+		if (current->right != nullptr)
+			q.push(current->right);
+		q.pop();
+	}
+}
 
 int main() {
 	int arr[] = {15, 20, 25, 10, 8, 12, 18};
 	Node *root = nullptr;
 	for (int v:arr)
 		root = insertNewNode(root, v);
+	std::cout << "preorder traversal of the tree is:\n";
+	inOrderTraversal(root);
+	std::cout << "inorder traversal of the tree is:\n";
+	postOrderTraversal(root);
 	std::cout << "postorder traversal of the tree is:\n";
 	postOrderTraversal(root);
+	std::cout << "level order traversal of the tree is:\n";
+	BFS(root);
 	return 0;
 }
