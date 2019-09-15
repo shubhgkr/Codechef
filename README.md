@@ -1,3 +1,3 @@
 # [CodeChef](https://www.codechef.com/)
--   [Beginner Questions](https://www.codechef.com/problems/school/)
--   [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [ ]  [Beginner](https://github.com/shubhgkr/Codechef/tree/master/Beginner)
+- [ ]  [Algorithms](https://github.com/shubhgkr/Codechef/tree/master/Algorithms)
