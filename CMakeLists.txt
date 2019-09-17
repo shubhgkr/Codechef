@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/CFRTEST.cpp)
+add_executable(Codechef Beginner/SIMDISH.cpp)

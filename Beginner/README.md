@@ -48,3 +48,4 @@
 1.   [PLAYSTR](https://www.codechef.com/problems/PLAYSTR)
 1.   [ICPC16A](https://www.codechef.com/problems/ICPC16A)
 1.   [CFRTEST](https://www.codechef.com/problems/CFRTEST)
+1.   [SIMDISH](https://www.codechef.com/problems/SIMDISH)
