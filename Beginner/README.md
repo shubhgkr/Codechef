@@ -51,3 +51,4 @@
 1.   [SIMDISH](https://www.codechef.com/problems/SIMDISH)
 1.   [FLOW011](https://www.codechef.com/problems/FLOW011)
 1.   [VOWELTB](https://www.codechef.com/problems/VOWELTB)
+1.   [LONGSEQ](https://www.codechef.com/problems/LONGSEQ)
