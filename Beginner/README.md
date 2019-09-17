@@ -46,3 +46,4 @@
 1.   [MNMX](https://www.codechef.com/problems/MNMX)
 1.   [TRICOIN](https://www.codechef.com/problems/TRICOIN)
 1.   [PLAYSTR](https://www.codechef.com/problems/PLAYSTR)
+1.   [ICPC16A](https://www.codechef.com/problems/ICPC16A)
