@@ -45,3 +45,4 @@
 1.   [HEADBOB](https://www.codechef.com/problems/HEADBOB)
 1.   [MNMX](https://www.codechef.com/problems/MNMX)
 1.   [TRICOIN](https://www.codechef.com/problems/TRICOIN)
+1.   [PLAYSTR](https://www.codechef.com/problems/PLAYSTR)
