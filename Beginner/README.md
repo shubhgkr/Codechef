@@ -53,3 +53,4 @@
 1.   [VOWELTB](https://www.codechef.com/problems/VOWELTB)
 1.   [LONGSEQ](https://www.codechef.com/problems/LONGSEQ)
 1.   [CCOOK](https://www.codechef.com/problems/CCOOK)
+1.   [MISSP](https://www.codechef.com/problems/MISSP)
