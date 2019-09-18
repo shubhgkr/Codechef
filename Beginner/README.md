@@ -54,3 +54,4 @@
 1.   [LONGSEQ](https://www.codechef.com/problems/LONGSEQ)
 1.   [CCOOK](https://www.codechef.com/problems/CCOOK)
 1.   [MISSP](https://www.codechef.com/problems/MISSP)
+1.   [FRUITS](https://www.codechef.com/problems/FRUITS)
