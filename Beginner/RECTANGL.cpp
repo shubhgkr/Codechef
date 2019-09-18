@@ -6,6 +6,7 @@
  */
 
 #include <iostream>
+#include <algorithm>
 
 int main() {
 	std::ios_base::sync_with_stdio(false);
@@ -13,9 +14,10 @@ int main() {
 	int t;
 	std::cin >> t;
 	while (t--) {
-		int a, b, c, d;
-		std::cin >> a >> b >> c >> d;
-		if ((a == b && c == d) || (a == c && b == d) || (a == d && c == b))
+		int arr[4];
+		std::cin >> arr[0] >> arr[1] >> arr[2] >> arr[3];
+		std::sort(arr, arr + 4);
+		if (a[0] == a[1] && a[2] == a[3])
 			std::cout << "YES\n";
 		else
 			std::cout << "NO\n";
