@@ -60,3 +60,4 @@
 1.   [HOWMANY](https://www.codechef.com/problems/HOWMANY)
 1.   [LCH15JAB](https://www.codechef.com/problems/LCH15JAB)
 1.   [AREAPERI](https://www.codechef.com/problems/AREAPERI)
+1.   [STRPALIN](https://www.codechef.com/problems/STRPALIN)
