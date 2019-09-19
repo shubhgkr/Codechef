@@ -62,3 +62,4 @@
 1.   [AREAPERI](https://www.codechef.com/problems/AREAPERI)
 1.   [STRPALIN](https://www.codechef.com/problems/STRPALIN)
 1.   [LAPIN](https://www.codechef.com/problems/LAPIN)
+1.   [COLOR](https://www.codechef.com/problems/COLOR)
