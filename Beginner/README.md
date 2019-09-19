@@ -57,3 +57,4 @@
 1.   [FRUITS](https://www.codechef.com/problems/FRUITS)
 1.   [RECTANGL](https://www.codechef.com/problems/RECTANGL)
 1.   [TWOSTR](https://www.codechef.com/problems/TWOSTR)
+1.   [HOWMANY](https://www.codechef.com/problems/HOWMANY)
