@@ -3,3 +3,4 @@
 1.   [TEST](https://www.codechef.com/problems/TEST)
 1.   [FCTRL](https://www.codechef.com/problems/FCTRL)
 1.   [CIELAB](https://www.codechef.com/problems/CIELAB)
+1.   [HORSES](https://www.codechef.com/problems/HORSES)
