@@ -4,3 +4,4 @@
 1.   [FCTRL](https://www.codechef.com/problems/FCTRL)
 1.   [CIELAB](https://www.codechef.com/problems/CIELAB)
 1.   [HORSES](https://www.codechef.com/problems/HORSES)
+1.   [JOHNY](https://www.codechef.com/problems/JOHNY)
