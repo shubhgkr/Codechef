@@ -5,3 +5,5 @@
     -  [KW6](https://www.codechef.com/CYNO2019/problems/KW6)
 - [X] [LTIME78B](https://www.codechef.com/LTIME78B/)
     -  [CMPRSS](https://www.codechef.com/LTIME78B/problems/CMPRSS)
+- [X] [DEC19B](https://www.codechef.com/DEC19B/)
+    -  [WATSCORE](https://www.codechef.com/LTIME78B/problems/WATSCORE)
