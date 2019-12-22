@@ -7,3 +7,4 @@
     -  [CMPRSS](https://www.codechef.com/LTIME78B/problems/CMPRSS)
 - [X] [DEC19B](https://www.codechef.com/DEC19B/)
     -  [WATSCORE](https://www.codechef.com/LTIME78B/problems/WATSCORE)
+    -  [PLMU](https://www.codechef.com/LTIME78B/problems/PLMU)
