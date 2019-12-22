@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Tournaments/CYNO2019/KW6.cpp)
+add_executable(Codechef Tournaments/LTIME78B/CMPRSS.cpp)
