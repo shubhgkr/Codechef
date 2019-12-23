@@ -8,3 +8,5 @@
 - [X] [DEC19B](https://www.codechef.com/DEC19B/)
     -  [WATSCORE](https://www.codechef.com/LTIME78B/problems/WATSCORE)
     -  [PLMU](https://www.codechef.com/LTIME78B/problems/PLMU)
+- [X] [COOK113B](https://www.codechef.com/COOK113B)
+    -  [CHNGIT](https://www.codechef.com/COOK113B/problems/CHNGIT)

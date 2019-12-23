@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Tournaments/DEC19B/PLMU.cpp)
+add_executable(Codechef Tournaments/COOK113B/CHNGIT.cpp)
