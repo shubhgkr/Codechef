@@ -80,3 +80,4 @@
 1.   [STRLBP](https://www.codechef.com/problems/STRLBP)
 1.   [URCALC](https://www.codechef.com/problems/URCALC)
 1.   [CO92JUDG](https://www.codechef.com/problems/CO92JUDG)
+1.   [CHCHCL](https://www.codechef.com/problems/CHCHCL)
