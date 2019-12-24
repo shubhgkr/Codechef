@@ -76,3 +76,4 @@
 1.   [MDL](https://www.codechef.com/problems/MDL)
 1.   [ATM2](https://www.codechef.com/problems/ATM2)
 1.   [ALPHABET](https://www.codechef.com/problems/ALPHABET)
+1.   [COOMILK](https://www.codechef.com/problems/COOMILK)
