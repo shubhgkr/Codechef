@@ -77,3 +77,4 @@
 1.   [ATM2](https://www.codechef.com/problems/ATM2)
 1.   [ALPHABET](https://www.codechef.com/problems/ALPHABET)
 1.   [COOMILK](https://www.codechef.com/problems/COOMILK)
+1.   [STRLBP](https://www.codechef.com/problems/STRLBP)
