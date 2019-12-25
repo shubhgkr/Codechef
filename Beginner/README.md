@@ -84,3 +84,4 @@
 1.   [TICKETS5](https://www.codechef.com/problems/TICKETS5)
 1.   [NOTINCOM](https://www.codechef.com/problems/NOTINCOM)
 1.   [NITIKA](https://www.codechef.com/problems/NITIKA)
+1.   [EXAM1](https://www.codechef.com/problems/EXAM1)
