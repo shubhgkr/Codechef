@@ -81,3 +81,4 @@
 1.   [URCALC](https://www.codechef.com/problems/URCALC)
 1.   [CO92JUDG](https://www.codechef.com/problems/CO92JUDG)
 1.   [CHCHCL](https://www.codechef.com/problems/CHCHCL)
+1.   [TICKETS5](https://www.codechef.com/problems/TICKETS5)
