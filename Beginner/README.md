@@ -88,3 +88,4 @@
 1.   [CHNGOR](https://www.codechef.com/problems/CHNGOR)
 1.   [SMPAIR](https://www.codechef.com/problems/SMPAIR)
 1.   [GOODBAD](https://www.codechef.com/problems/GOODBAD)
+1.   [EGRANDR](https://www.codechef.com/problems/EGRANDR)
