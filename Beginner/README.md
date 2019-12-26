@@ -87,3 +87,4 @@
 1.   [EXAM1](https://www.codechef.com/problems/EXAM1)
 1.   [CHNGOR](https://www.codechef.com/problems/CHNGOR)
 1.   [SMPAIR](https://www.codechef.com/problems/SMPAIR)
+1.   [GOODBAD](https://www.codechef.com/problems/GOODBAD)
