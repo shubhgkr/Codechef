@@ -89,3 +89,4 @@
 1.   [SMPAIR](https://www.codechef.com/problems/SMPAIR)
 1.   [GOODBAD](https://www.codechef.com/problems/GOODBAD)
 1.   [EGRANDR](https://www.codechef.com/problems/EGRANDR)
+1.   [SUMTRIAN](https://www.codechef.com/problems/SUMTRIAN)
