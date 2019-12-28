@@ -94,3 +94,4 @@
 1.   [TWONMS](https://www.codechef.com/problems/TWONMS)
 1.   [PERMUT2](https://www.codechef.com/problems/PERMUT2)
 1.   [FLOW016](https://www.codechef.com/problems/FLOW016)
+1.   [CANDY123](https://www.codechef.com/problems/CANDY123)
