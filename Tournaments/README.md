@@ -13,3 +13,4 @@
 - [X] [LTIME79B](https://www.codechef.com/LTIME79B)
     -   [CHEALG](https://www.codechef.com/LTIME79B/problems/CHEALG)
     -   [STUPMACH](https://www.codechef.com/LTIME79B/problems/STUPMACH)
+    -   [GUESSNUM](https://www.codechef.com/LTIME79B/problems/GUESSNUM)
