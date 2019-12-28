@@ -10,3 +10,5 @@
     -  [PLMU](https://www.codechef.com/LTIME78B/problems/PLMU)
 - [X] [COOK113B](https://www.codechef.com/COOK113B)
     -  [CHNGIT](https://www.codechef.com/COOK113B/problems/CHNGIT)
+- [X] [LTIME79B](https://www.codechef.com/LTIME79B)
+    -   [CHEALG](https://www.codechef.com/LTIME79B/problems/CHEALG)
