@@ -6,3 +6,4 @@
 1.   [HORSES](https://www.codechef.com/problems/HORSES)
 1.   [JOHNY](https://www.codechef.com/problems/JOHNY)
 1.   [ERROR](https://www.codechef.com/problems/ERROR)
+1.   [OJUMPS](https://www.codechef.com/problems/OJUMPS)
