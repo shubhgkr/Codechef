@@ -7,3 +7,4 @@
 1.   [JOHNY](https://www.codechef.com/problems/JOHNY)
 1.   [ERROR](https://www.codechef.com/problems/ERROR)
 1.   [OJUMPS](https://www.codechef.com/problems/OJUMPS)
+1.   [DIVIDING](https://www.codechef.com/problems/DIVIDING)
