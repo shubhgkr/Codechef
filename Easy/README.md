@@ -9,3 +9,4 @@
 1.   [OJUMPS](https://www.codechef.com/problems/OJUMPS)
 1.   [DIVIDING](https://www.codechef.com/problems/DIVIDING)
 1.   [SALARY](https://www.codechef.com/problems/SALARY)
+1.   [LEBOMBS](https://www.codechef.com/problems/LEBOMBS)
