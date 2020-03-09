@@ -17,3 +17,4 @@
 1.   [SUBGCD](https://www.codechef.com/problems/SUBGCD)
 1.   [CNOTE](https://www.codechef.com/problems/CNOTE)
 1.   [LEPERMUT](https://www.codechef.com/problems/LEPERMUT)
+1.   [RESQ](https://www.codechef.com/problems/RESQ)
