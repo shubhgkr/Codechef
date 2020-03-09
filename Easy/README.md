@@ -20,3 +20,4 @@
 1.   [RESQ](https://www.codechef.com/problems/RESQ)
 1.   [CHEFA](https://www.codechef.com/problems/CHEFA)
 1.   [KOL15A](https://www.codechef.com/problems/KOL15A)
+1.   [LUCKYSTR](https://www.codechef.com/problems/LUCKYSTR)
