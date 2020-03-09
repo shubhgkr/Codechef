@@ -97,3 +97,4 @@
 1.   [CANDY123](https://www.codechef.com/problems/CANDY123)
 1.   [UTMOPR](https://www.codechef.com/problems/UTMOPR)
 1.   [CEQUAL](https://www.codechef.com/problems/CEQUAL)
+1.   [RECTSQ](https://www.codechef.com/problems/RECTSQ)
