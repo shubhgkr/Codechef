@@ -99,3 +99,4 @@
 1.   [CEQUAL](https://www.codechef.com/problems/CEQUAL)
 1.   [RECTSQ](https://www.codechef.com/problems/RECTSQ)
 1.   [KTTABLE](https://www.codechef.com/problems/KTTABLE)
+1.   [LOSTMAX](https://www.codechef.com/problems/LOSTMAX)
