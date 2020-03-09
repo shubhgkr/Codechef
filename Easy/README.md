@@ -19,3 +19,4 @@
 1.   [LEPERMUT](https://www.codechef.com/problems/LEPERMUT)
 1.   [RESQ](https://www.codechef.com/problems/RESQ)
 1.   [CHEFA](https://www.codechef.com/problems/CHEFA)
+1.   [KOL15A](https://www.codechef.com/problems/KOL15A)
