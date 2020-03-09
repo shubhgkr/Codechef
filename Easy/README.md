@@ -14,3 +14,4 @@
 1.   [AMSGAME1](https://www.codechef.com/problems/AMSGAME1)
 1.   [GCD2](https://www.codechef.com/problems/GCD2)
 1.   [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB)
+1.   [SUBGCD](https://www.codechef.com/problems/SUBGCD)
