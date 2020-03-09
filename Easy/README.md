@@ -16,3 +16,4 @@
 1.   [ALEXNUMB](https://www.codechef.com/problems/ALEXNUMB)
 1.   [SUBGCD](https://www.codechef.com/problems/SUBGCD)
 1.   [CNOTE](https://www.codechef.com/problems/CNOTE)
+1.   [LEPERMUT](https://www.codechef.com/problems/LEPERMUT)
