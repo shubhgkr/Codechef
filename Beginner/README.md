@@ -102,3 +102,4 @@
 1.   [LOSTMAX](https://www.codechef.com/problems/LOSTMAX)
 1.   [BSTOPS](https://www.codechef.com/problems/BSTOPS)
 1.   [STICKS](https://www.codechef.com/problems/STICKS)
+1.   [CHFM](https://www.codechef.com/problems/CHFM)
