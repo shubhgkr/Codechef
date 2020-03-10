@@ -103,3 +103,4 @@
 1.   [BSTOPS](https://www.codechef.com/problems/BSTOPS)
 1.   [STICKS](https://www.codechef.com/problems/STICKS)
 1.   [CHFM](https://www.codechef.com/problems/CHFM)
+1.   [ENCMSG](https://www.codechef.com/problems/ENCMSG)
