@@ -101,3 +101,4 @@
 1.   [KTTABLE](https://www.codechef.com/problems/KTTABLE)
 1.   [LOSTMAX](https://www.codechef.com/problems/LOSTMAX)
 1.   [BSTOPS](https://www.codechef.com/problems/BSTOPS)
+1.   [STICKS](https://www.codechef.com/problems/STICKS)
