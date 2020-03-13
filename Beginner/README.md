@@ -106,3 +106,4 @@
 1.   [ENCMSG](https://www.codechef.com/problems/ENCMSG)
 1.   [PIPSQUIK](https://www.codechef.com/problems/PIPSQUIK)
 1.   [ICM2008](https://www.codechef.com/problems/ICM2008)
+1.   [MXCH](https://www.codechef.com/problems/MXCH)
