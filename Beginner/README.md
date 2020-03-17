@@ -110,3 +110,4 @@
 1.   [CHFAR](https://www.codechef.com/problems/CHFAR)
 1.   [UWCOI20A](https://www.codechef.com/problems/UWCOI20A)
 1.   [GVAWAY](https://www.codechef.com/problems/GVAWAY)
+1.   [TALAZY](https://www.codechef.com/problems/TALAZY)
