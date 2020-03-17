@@ -16,3 +16,4 @@
     -   [GUESSNUM](https://www.codechef.com/LTIME79B/problems/GUESSNUM)
 - [X] [MARCH20B](https://www.codechef.com/MARCH20B)
     -   [ENGXOR](https://www.codechef.com/MARCH20B/problems/ENGXOR)
+    -   [CHPINTU](https://www.codechef.com/MARCH20B/problems/CHPINTU)
