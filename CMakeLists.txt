@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/GVAWAY.cpp)
+add_executable(Codechef Tournaments/MARCH20B/ENGXOR.cpp)
