@@ -113,3 +113,4 @@
 1.   [TALAZY](https://www.codechef.com/problems/TALAZY)
 1.   [COMM3](https://www.codechef.com/problems/COMM3)
 1.   [COPS](https://www.codechef.com/problems/COPS)
+1.   [CHEFSQ](https://www.codechef.com/problems/CHEFSQ)
