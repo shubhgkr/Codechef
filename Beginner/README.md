@@ -115,3 +115,4 @@
 1.   [COPS](https://www.codechef.com/problems/COPS)
 1.   [CHEFSQ](https://www.codechef.com/problems/CHEFSQ)
 1.   [CLIPLX](https://www.codechef.com/problems/CLIPLX)
+1.   [DEVARRAY](https://www.codechef.com/problems/DEVARRAY)
