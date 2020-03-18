@@ -117,3 +117,4 @@
 1.   [CLIPLX](https://www.codechef.com/problems/CLIPLX)
 1.   [DEVARRAY](https://www.codechef.com/problems/DEVARRAY)
 1.   [CHN15A](https://www.codechef.com/problems/CHN15A)
+1.   [TTENIS](https://www.codechef.com/problems/TTENIS)
