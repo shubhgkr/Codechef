@@ -125,3 +125,4 @@
 1.   [CODERLIF](https://www.codechef.com/problems/CODERLIF)
 1.   [CSUM](https://www.codechef.com/problems/CSUM)
 1.   [FLOW014](https://www.codechef.com/problems/FLOW014)
+1.   [MAGICHF](https://www.codechef.com/problems/MAGICHF)
