@@ -129,3 +129,4 @@
 1.   [HILLS](https://www.codechef.com/problems/HILLS)
 1.   [EID2](https://www.codechef.com/problems/EID2)
 1.   [MAX2](https://www.codechef.com/problems/MAX2)
+1.   [MAXREM](https://www.codechef.com/problems/MAXREM)
