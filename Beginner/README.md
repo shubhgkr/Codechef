@@ -127,3 +127,4 @@
 1.   [FLOW014](https://www.codechef.com/problems/FLOW014)
 1.   [MAGICHF](https://www.codechef.com/problems/MAGICHF)
 1.   [HILLS](https://www.codechef.com/problems/HILLS)
+1.   [EID2](https://www.codechef.com/problems/EID2)
