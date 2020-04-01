@@ -123,3 +123,4 @@
 1.   [MGCSET](https://www.codechef.com/problems/MGCSET)
 1.   [ADASTAIR](https://www.codechef.com/problems/ADASTAIR)
 1.   [CODERLIF](https://www.codechef.com/problems/CODERLIF)
+1.   [CSUM](https://www.codechef.com/problems/CSUM)
