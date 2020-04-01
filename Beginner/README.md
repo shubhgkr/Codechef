@@ -122,3 +122,4 @@
 1.   [CATSDOGS](https://www.codechef.com/problems/CATSDOGS)
 1.   [MGCSET](https://www.codechef.com/problems/MGCSET)
 1.   [ADASTAIR](https://www.codechef.com/problems/ADASTAIR)
+1.   [CODERLIF](https://www.codechef.com/problems/CODERLIF)
