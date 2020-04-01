@@ -121,3 +121,4 @@
 1.   [BIT2A](https://www.codechef.com/problems/BIT2A)
 1.   [CATSDOGS](https://www.codechef.com/problems/CATSDOGS)
 1.   [MGCSET](https://www.codechef.com/problems/MGCSET)
+1.   [ADASTAIR](https://www.codechef.com/problems/ADASTAIR)
