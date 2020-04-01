@@ -128,3 +128,4 @@
 1.   [MAGICHF](https://www.codechef.com/problems/MAGICHF)
 1.   [HILLS](https://www.codechef.com/problems/HILLS)
 1.   [EID2](https://www.codechef.com/problems/EID2)
+1.   [MAX2](https://www.codechef.com/problems/MAX2)
