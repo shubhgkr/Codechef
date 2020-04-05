@@ -130,3 +130,4 @@
 1.   [EID2](https://www.codechef.com/problems/EID2)
 1.   [MAX2](https://www.codechef.com/problems/MAX2)
 1.   [MAXREM](https://www.codechef.com/problems/MAXREM)
+1.   [CHEFARRP](https://www.codechef.com/problems/CHEFARRP)
