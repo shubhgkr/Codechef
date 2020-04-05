@@ -144,3 +144,4 @@
 1.   [PRGIFT](https://www.codechef.com/problems/PRGIFT)
 1.   [SUBINC](https://www.codechef.com/problems/SUBINC)
 1.   [GOODSET](https://www.codechef.com/problems/GOODSET)
+1.   [JDELAY](https://www.codechef.com/problems/JDELAY)
