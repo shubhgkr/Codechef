@@ -131,3 +131,4 @@
 1.   [MAX2](https://www.codechef.com/problems/MAX2)
 1.   [MAXREM](https://www.codechef.com/problems/MAXREM)
 1.   [CHEFARRP](https://www.codechef.com/problems/CHEFARRP)
+1.   [ALTARAY](https://www.codechef.com/problems/ALTARAY)
