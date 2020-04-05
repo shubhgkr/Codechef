@@ -140,3 +140,4 @@
 1.   [SEGM01](https://www.codechef.com/problems/SEGM01)
 1.   [FRK](https://www.codechef.com/problems/FRK)
 1.   [RPD](https://www.codechef.com/problems/RPD)
+1.   [CV](https://www.codechef.com/problems/CV)
