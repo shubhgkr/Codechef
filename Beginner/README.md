@@ -142,3 +142,4 @@
 1.   [RPD](https://www.codechef.com/problems/RPD)
 1.   [CV](https://www.codechef.com/problems/CV)
 1.   [PRGIFT](https://www.codechef.com/problems/PRGIFT)
+1.   [SUBINC](https://www.codechef.com/problems/SUBINC)
