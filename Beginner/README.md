@@ -136,3 +136,4 @@
 1.   [CHEFRUN](https://www.codechef.com/problems/CHEFRUN)
 1.   [MATPAN](https://www.codechef.com/problems/MATPAN)
 1.   [ADACRA](https://www.codechef.com/problems/ADACRA)
+1.   [THREEFR](https://www.codechef.com/problems/THREEFR)
