@@ -143,3 +143,4 @@
 1.   [CV](https://www.codechef.com/problems/CV)
 1.   [PRGIFT](https://www.codechef.com/problems/PRGIFT)
 1.   [SUBINC](https://www.codechef.com/problems/SUBINC)
+1.   [GOODSET](https://www.codechef.com/problems/GOODSET)
