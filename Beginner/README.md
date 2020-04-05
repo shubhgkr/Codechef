@@ -138,3 +138,4 @@
 1.   [ADACRA](https://www.codechef.com/problems/ADACRA)
 1.   [THREEFR](https://www.codechef.com/problems/THREEFR)
 1.   [SEGM01](https://www.codechef.com/problems/SEGM01)
+1.   [FRK](https://www.codechef.com/problems/FRK)
