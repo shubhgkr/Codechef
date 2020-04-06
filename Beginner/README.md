@@ -146,3 +146,4 @@
 1.   [GOODSET](https://www.codechef.com/problems/GOODSET)
 1.   [JDELAY](https://www.codechef.com/problems/JDELAY)
 1.   [BRLADDER](https://www.codechef.com/problems/BRLADDER)
+1.   [CK87MEDI](https://www.codechef.com/problems/CK87MEDI)
