@@ -147,3 +147,4 @@
 1.   [JDELAY](https://www.codechef.com/problems/JDELAY)
 1.   [BRLADDER](https://www.codechef.com/problems/BRLADDER)
 1.   [CK87MEDI](https://www.codechef.com/problems/CK87MEDI)
+1.   [CHEFROUT](https://www.codechef.com/problems/CHEFROUT)
