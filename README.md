@@ -1,3 +1,5 @@
 # [CodeChef](https://www.codechef.com/)
 - [ ]  [Beginner](Beginner)
+- [ ]  [Easy](Easy)
 - [ ]  [Tournaments](Tournaments)
+- [ ]  [DSA Learning Series](dsa_learning_series)
