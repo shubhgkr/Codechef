@@ -149,3 +149,4 @@
 1.   [CK87MEDI](https://www.codechef.com/problems/CK87MEDI)
 1.   [CHEFROUT](https://www.codechef.com/problems/CHEFROUT)
 1.   [REDONE](https://www.codechef.com/problems/REDONE)
+1.   [ZUBTRCNT](https://www.codechef.com/problems/ZUBTRCNT)
