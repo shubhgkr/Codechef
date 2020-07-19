@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef dsa_learning_series/contest1/TEST.cpp)
+add_executable(Codechef dsa_learning_series/contest1/FLOW007.cpp)
