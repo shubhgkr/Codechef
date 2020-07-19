@@ -150,3 +150,4 @@
 1.   [CHEFROUT](https://www.codechef.com/problems/CHEFROUT)
 1.   [REDONE](https://www.codechef.com/problems/REDONE)
 1.   [ZUBTRCNT](https://www.codechef.com/problems/ZUBTRCNT)
+1.   [RECNDNOS](https://www.codechef.com/problems/RECNDNOS)
