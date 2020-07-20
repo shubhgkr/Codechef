@@ -22,3 +22,4 @@
 1.   [KOL15A](https://www.codechef.com/problems/KOL15A)
 1.   [LUCKYSTR](https://www.codechef.com/problems/LUCKYSTR)
 1.   [BUYING2](https://www.codechef.com/problems/BUYING2)
+1.   [PLZLYKME](https://www.codechef.com/problems/PLZLYKME)
