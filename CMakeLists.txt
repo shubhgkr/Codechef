@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Easy/ORTHODOX.cpp)
+add_executable(Codechef Easy/VOTERS.cpp)
