@@ -28,3 +28,4 @@
 1.   [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)
 1.   [EASYPROB](https://www.codechef.com/problems/EASYPROB)
 1.   [NUMGAME2](https://www.codechef.com/problems/NUMGAME2)
+1.   [ANUBTG](https://www.codechef.com/problems/ANUBTG)
