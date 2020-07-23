@@ -25,3 +25,4 @@
 1.   [PLZLYKME](https://www.codechef.com/problems/PLZLYKME)
 1.   [ORTHODOX](https://www.codechef.com/problems/ORTHODOX)
 1.   [VOTERS](https://www.codechef.com/problems/VOTERS)
+1.   [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)
