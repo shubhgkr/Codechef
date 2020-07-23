@@ -23,3 +23,4 @@
 1.   [LUCKYSTR](https://www.codechef.com/problems/LUCKYSTR)
 1.   [BUYING2](https://www.codechef.com/problems/BUYING2)
 1.   [PLZLYKME](https://www.codechef.com/problems/PLZLYKME)
+1.   [ORTHODOX](https://www.codechef.com/problems/ORTHODOX)
