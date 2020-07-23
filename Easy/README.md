@@ -26,3 +26,4 @@
 1.   [ORTHODOX](https://www.codechef.com/problems/ORTHODOX)
 1.   [VOTERS](https://www.codechef.com/problems/VOTERS)
 1.   [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)
+1.   [EASYPROB](https://www.codechef.com/problems/EASYPROB)
