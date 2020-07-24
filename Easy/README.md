@@ -29,3 +29,4 @@
 1.   [EASYPROB](https://www.codechef.com/problems/EASYPROB)
 1.   [NUMGAME2](https://www.codechef.com/problems/NUMGAME2)
 1.   [ANUBTG](https://www.codechef.com/problems/ANUBTG)
+1.   [NAME2](https://www.codechef.com/problems/NAME2)
