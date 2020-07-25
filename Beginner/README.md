@@ -154,3 +154,4 @@
 1.   [CHEGLOVE](https://www.codechef.com/problems/CHEGLOVE)
 1.   [HRDSEQ](https://www.codechef.com/problems/HRDSEQ)
 1.   [MSNSADM1](https://www.codechef.com/problems/MSNSADM1)
+1.   [NW1](https://www.codechef.com/problems/NW1)
