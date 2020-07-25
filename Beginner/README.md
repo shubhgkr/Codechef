@@ -155,3 +155,4 @@
 1.   [HRDSEQ](https://www.codechef.com/problems/HRDSEQ)
 1.   [MSNSADM1](https://www.codechef.com/problems/MSNSADM1)
 1.   [NW1](https://www.codechef.com/problems/NW1)
+1.   [EID](https://www.codechef.com/problems/EID)
