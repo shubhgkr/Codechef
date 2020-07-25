@@ -3,4 +3,4 @@ project(Codechef)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Codechef Beginner/HRDSEQ.cpp)
+add_executable(Codechef Beginner/MSNSADM1.cpp)

@@ -153,3 +153,4 @@
 1.   [RECNDNOS](https://www.codechef.com/problems/RECNDNOS)
 1.   [CHEGLOVE](https://www.codechef.com/problems/CHEGLOVE)
 1.   [HRDSEQ](https://www.codechef.com/problems/HRDSEQ)
+1.   [MSNSADM1](https://www.codechef.com/problems/MSNSADM1)
