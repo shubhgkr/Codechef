@@ -157,3 +157,4 @@
 1.   [NW1](https://www.codechef.com/problems/NW1)
 1.   [EID](https://www.codechef.com/problems/EID)
 1.   [DEVUGRAP](https://www.codechef.com/problems/DEVUGRAP)
+1.   [CHEFSTUD](https://www.codechef.com/problems/CHEFSTUD)
