@@ -166,3 +166,4 @@
 1.   [PROC18A](https://www.codechef.com/problems/PROC18A)
 1.   [TYPING](https://www.codechef.com/problems/TYPING)
 1.   [NAICHEF](https://www.codechef.com/problems/NAICHEF)
+1.   [CHEFWORK](https://www.codechef.com/problems/CHEFWORK)
