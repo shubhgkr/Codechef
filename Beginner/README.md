@@ -161,3 +161,4 @@
 1.   [SIMPSTAT](https://www.codechef.com/problems/SIMPSTAT)
 1.   [TSTROBOT](https://www.codechef.com/problems/TSTROBOT)
 1.   [CHEFDETE](https://www.codechef.com/problems/CHEFDETE)
+1.   [CHSERVE](https://www.codechef.com/problems/CHSERVE)
