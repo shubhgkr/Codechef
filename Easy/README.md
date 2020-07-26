@@ -31,3 +31,4 @@
 1.   [ANUBTG](https://www.codechef.com/problems/ANUBTG)
 1.   [NAME2](https://www.codechef.com/problems/NAME2)
 1.   [TOTR](https://www.codechef.com/problems/TOTR)
+1.   [MYSARA](https://www.codechef.com/problems/MYSARA)
