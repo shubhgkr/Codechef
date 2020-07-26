@@ -159,3 +159,4 @@
 1.   [DEVUGRAP](https://www.codechef.com/problems/DEVUGRAP)
 1.   [CHEFSTUD](https://www.codechef.com/problems/CHEFSTUD)
 1.   [SIMPSTAT](https://www.codechef.com/problems/SIMPSTAT)
+1.   [TSTROBOT](https://www.codechef.com/problems/TSTROBOT)
