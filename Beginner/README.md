@@ -164,3 +164,4 @@
 1.   [CHSERVE](https://www.codechef.com/problems/CHSERVE)
 1.   [ISITCAKE](https://www.codechef.com/problems/ISITCAKE)
 1.   [PROC18A](https://www.codechef.com/problems/PROC18A)
+1.   [TYPING](https://www.codechef.com/problems/TYPING)
