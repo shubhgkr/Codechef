@@ -162,3 +162,4 @@
 1.   [TSTROBOT](https://www.codechef.com/problems/TSTROBOT)
 1.   [CHEFDETE](https://www.codechef.com/problems/CHEFDETE)
 1.   [CHSERVE](https://www.codechef.com/problems/CHSERVE)
+1.   [ISITCAKE](https://www.codechef.com/problems/ISITCAKE)
