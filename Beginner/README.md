@@ -169,3 +169,4 @@
 1.   [CHEFWORK](https://www.codechef.com/problems/CHEFWORK)
 1.   [OMWG](https://www.codechef.com/problems/OMWG)
 1.   [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
+1.   [PINS](https://www.codechef.com/problems/PINS)
