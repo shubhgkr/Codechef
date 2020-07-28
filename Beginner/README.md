@@ -173,3 +173,4 @@
 1.   [L56GAME](https://www.codechef.com/problems/L56GAME)
 1.   [TWEED](https://www.codechef.com/problems/TWEED)
 1.   [RECNDSTR](https://www.codechef.com/problems/RECNDSTR)
+1.   [CHFIDEAL](https://www.codechef.com/problems/CHFIDEAL)
