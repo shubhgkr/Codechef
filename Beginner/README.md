@@ -171,3 +171,4 @@
 1.   [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
 1.   [PINS](https://www.codechef.com/problems/PINS)
 1.   [L56GAME](https://www.codechef.com/problems/L56GAME)
+1.   [TWEED](https://www.codechef.com/problems/TWEED)
