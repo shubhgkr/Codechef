@@ -174,3 +174,4 @@
 1.   [TWEED](https://www.codechef.com/problems/TWEED)
 1.   [RECNDSTR](https://www.codechef.com/problems/RECNDSTR)
 1.   [CHFIDEAL](https://www.codechef.com/problems/CHFIDEAL)
+1.   [AVG](https://www.codechef.com/problems/AVG)
