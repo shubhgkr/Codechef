@@ -175,3 +175,4 @@
 1.   [RECNDSTR](https://www.codechef.com/problems/RECNDSTR)
 1.   [CHFIDEAL](https://www.codechef.com/problems/CHFIDEAL)
 1.   [AVG](https://www.codechef.com/problems/AVG)
+1.   [ATTND](https://www.codechef.com/problems/ATTND)
