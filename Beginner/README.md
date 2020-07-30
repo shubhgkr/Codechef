@@ -177,3 +177,4 @@
 1.   [AVG](https://www.codechef.com/problems/AVG)
 1.   [ATTND](https://www.codechef.com/problems/ATTND)
 1.   [SINS](https://www.codechef.com/problems/SINS)
+1.   [LIFELTD](https://www.codechef.com/problems/LIFELTD)
