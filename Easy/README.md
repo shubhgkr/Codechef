@@ -32,3 +32,4 @@
 1.   [NAME2](https://www.codechef.com/problems/NAME2)
 1.   [TOTR](https://www.codechef.com/problems/TOTR)
 1.   [MYSARA](https://www.codechef.com/problems/MYSARA)
+1.   [DISCHAR](https://www.codechef.com/problems/DISCHAR)
