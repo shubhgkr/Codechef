@@ -34,3 +34,4 @@
 1.   [MYSARA](https://www.codechef.com/problems/MYSARA)
 1.   [DISCHAR](https://www.codechef.com/problems/DISCHAR)
 1.   [LUCKY5](https://www.codechef.com/problems/LUCKY5)
+1.   [CHEFSTON](https://www.codechef.com/problems/CHEFSTON)
