@@ -35,3 +35,4 @@
 1.   [DISCHAR](https://www.codechef.com/problems/DISCHAR)
 1.   [LUCKY5](https://www.codechef.com/problems/LUCKY5)
 1.   [CHEFSTON](https://www.codechef.com/problems/CHEFSTON)
+1.   [PCYCLE](https://www.codechef.com/problems/PCYCLE)
