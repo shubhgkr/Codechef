@@ -37,3 +37,4 @@
 1.   [CHEFSTON](https://www.codechef.com/problems/CHEFSTON)
 1.   [PCYCLE](https://www.codechef.com/problems/PCYCLE)
 1.   [CHEFZOT](https://www.codechef.com/problems/CHEFZOT)
+1.   [ANUWTA](https://www.codechef.com/problems/ANUWTA)
