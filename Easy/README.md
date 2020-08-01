@@ -36,3 +36,4 @@
 1.   [LUCKY5](https://www.codechef.com/problems/LUCKY5)
 1.   [CHEFSTON](https://www.codechef.com/problems/CHEFSTON)
 1.   [PCYCLE](https://www.codechef.com/problems/PCYCLE)
+1.   [CHEFZOT](https://www.codechef.com/problems/CHEFZOT)
