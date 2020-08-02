@@ -40,3 +40,4 @@
 1.   [ANUWTA](https://www.codechef.com/problems/ANUWTA)
 1.   [COMPILER](https://www.codechef.com/problems/COMPILER)
 1.   [RRSUM](https://www.codechef.com/problems/RRSUM)
+1.   [NAME1](https://www.codechef.com/problems/NAME1)
