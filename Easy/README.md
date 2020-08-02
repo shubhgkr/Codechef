@@ -43,3 +43,4 @@
 1.   [NAME1](https://www.codechef.com/problems/NAME1)
 1.   [KINGSHIP](https://www.codechef.com/problems/KINGSHIP)
 1.   [WALK](https://www.codechef.com/problems/WALK)
+1.   [RRSTONE](https://www.codechef.com/problems/RRSTONE)
