@@ -39,3 +39,4 @@
 1.   [CHEFZOT](https://www.codechef.com/problems/CHEFZOT)
 1.   [ANUWTA](https://www.codechef.com/problems/ANUWTA)
 1.   [COMPILER](https://www.codechef.com/problems/COMPILER)
+1.   [RRSUM](https://www.codechef.com/problems/RRSUM)
