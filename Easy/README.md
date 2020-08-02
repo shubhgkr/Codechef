@@ -46,3 +46,4 @@
 1.   [RRSTONE](https://www.codechef.com/problems/RRSTONE)
 1.   [CHEFSUM](https://www.codechef.com/problems/CHEFSUM)
 1.   [TAVISUAL](https://www.codechef.com/problems/TAVISUAL)
+1.   [LCPESY](https://www.codechef.com/problems/LCPESY)
