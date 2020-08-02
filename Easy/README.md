@@ -41,3 +41,4 @@
 1.   [COMPILER](https://www.codechef.com/problems/COMPILER)
 1.   [RRSUM](https://www.codechef.com/problems/RRSUM)
 1.   [NAME1](https://www.codechef.com/problems/NAME1)
+1.   [KINGSHIP](https://www.codechef.com/problems/KINGSHIP)
